@@ -1,2 +1,2 @@
-# jsArrayDatabase
-Simple array database in js
+# jsArray
+Simple array data display in js
